@@ -1,8 +1,8 @@
 {
-  "name": "packagejson",
-  "type":"module",
+  "name": "trinhtrg.github.io",
+  "type": "module",
   "version": "1.0.0",
-  "description": "notthing",
+  "description": "make a landing page",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,15 +10,8 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "trinhtrg"
-  },
-  "keywords": [
-    "package"
-  ],
-  "author": "trinh",
-  "license": "UNLICENSED",
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.38",
